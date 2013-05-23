@@ -41,6 +41,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.printDialog1 = new System.Windows.Forms.PrintDialog();
+            this.button5 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // BrowseB
@@ -138,11 +139,24 @@
             // 
             this.printDialog1.UseEXDialog = true;
             // 
+            // button5
+            // 
+            this.button5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button5.BackgroundImage")));
+            this.button5.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.button5.Location = new System.Drawing.Point(278, 10);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(32, 32);
+            this.button5.TabIndex = 11;
+            this.toolTip1.SetToolTip(this.button5, "Открыть фоновое изображение");
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1274, 921);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -172,6 +186,7 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.PrintDialog printDialog1;
+        private System.Windows.Forms.Button button5;
     }
 }
 

@@ -22,3 +22,11 @@ C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(f
 C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\obj\Release\diplom.Form1.resources
 C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\obj\Release\diplom.Properties.Resources.resources
 C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\obj\Release\diplom.csproj.GenerateResource.Cache
+C:\work\Ad-Constructor\diplom\obj\Release\diplom.exe
+C:\work\Ad-Constructor\diplom\obj\Release\diplom.pdb
+C:\work\Ad-Constructor\diplom\obj\Release\ResolveAssemblyReference.cache
+C:\work\Ad-Constructor\diplom\obj\Release\diplom.Form1.resources
+C:\work\Ad-Constructor\diplom\obj\Release\diplom.Properties.Resources.resources
+C:\work\Ad-Constructor\diplom\obj\Release\diplom.csproj.GenerateResource.Cache
+C:\work\Ad-Constructor\diplom\bin\Release\diplom.exe
+C:\work\Ad-Constructor\diplom\bin\Release\diplom.pdb

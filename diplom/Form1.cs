@@ -346,5 +346,25 @@ namespace diplom
             }
             //File.Delete("out.jpg");         
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            DialogResult result = openFileDialog1.ShowDialog();
+            if (result == DialogResult.OK) // Test result.
+            {
+                string file = openFileDialog1.FileName;
+                // If this is only an exercise this is acceptable, otherwise you should
+                // store the image as a resource
+                Image newImage = Image.FromFile(file);
+
+                Graphics graphics = panel1.CreateGraphics();
+
+                // Note rectangle x,y coordinates are relative to 
+                // the 'controlToDrawOver' object.
+                Rectangle rectangleAreaToDrawImage = new Rectangle(new Point(0,0), newImage.Size);
+                graphics.DrawImage(newImage, rectangleAreaToDrawImage);
+                
+            }
+        }
     }
 }
