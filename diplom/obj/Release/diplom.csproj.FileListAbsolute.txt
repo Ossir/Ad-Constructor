@@ -1,0 +1,24 @@
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom\diplom\bin\Release\diplom.exe
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom\diplom\bin\Release\diplom.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom\diplom\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom\diplom\obj\Release\diplom.Form1.resources
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom\diplom\obj\Release\diplom.Properties.Resources.resources
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom\diplom\obj\Release\diplom.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom\diplom\obj\Release\diplom.exe
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom\diplom\obj\Release\diplom.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom - копия\diplom\obj\Release\diplom.exe
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom - копия\diplom\obj\Release\diplom.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom - копия\diplom\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom - копия\diplom\obj\Release\diplom.Form1.resources
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom - копия\diplom\obj\Release\diplom.Properties.Resources.resources
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom - копия\diplom\obj\Release\diplom.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom - копия\diplom\bin\Release\diplom.exe
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom - копия\diplom\bin\Release\diplom.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\obj\Release\diplom.exe
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\obj\Release\diplom.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\bin\Release\diplom.exe
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\bin\Release\diplom.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\obj\Release\diplom.Form1.resources
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\obj\Release\diplom.Properties.Resources.resources
+C:\Users\Пользователь\Documents\Visual Studio 2008\Projects\diplom(final)\diplom\obj\Release\diplom.csproj.GenerateResource.Cache
